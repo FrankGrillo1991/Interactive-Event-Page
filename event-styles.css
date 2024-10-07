@@ -57,3 +57,10 @@ section {
     display: block;
     margin-bottom: .5rem;
 }
+
+#registration-form .form-control {
+    height: 40px;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
