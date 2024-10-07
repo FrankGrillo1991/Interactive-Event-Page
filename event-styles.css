@@ -40,3 +40,10 @@ section {
     max-width: 600px; /* Makes the form not too wide on larger screens */
     margin: auto;
 }
+
+#registration-form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
