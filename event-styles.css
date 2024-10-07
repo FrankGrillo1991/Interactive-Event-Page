@@ -83,3 +83,11 @@ section {
     height: 400px;
     width: 100%;
 }
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
