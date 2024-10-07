@@ -78,3 +78,8 @@ section {
     background-color: #0056b3;
     border-color: #004085
 }
+
+#map {
+    height: 400px;
+    width: 100%;
+}
