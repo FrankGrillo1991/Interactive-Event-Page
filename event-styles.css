@@ -51,3 +51,9 @@ section {
 #registration-form .form-group {
     margin-bottom: 1rem;
 }
+
+#registration-form label {
+    text-align: left;
+    display: block;
+    margin-bottom: .5rem;
+}
