@@ -64,3 +64,12 @@ section {
     border: 1px solid #ddd;
     border-radius: 4px;
 }
+
+#registration-form .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
