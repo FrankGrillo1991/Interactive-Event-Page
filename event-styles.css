@@ -18,3 +18,8 @@ body {
 section {
     padding: 60px 0;
 }
+
+/* Event details styles */
+#details .container {
+    text-align: center;
+}
